@@ -1,0 +1,45 @@
+/*body{*/
+    /*font-family: "Verdana", "sans-serif";*/
+    /*font-size:14px ;*/
+/*}*/
+
+.todo-btn{
+    background-color: #1c94c4;
+    color: #fefefe;
+    margin: 10px 20px 10px 20px;
+    width: 180px;
+}
+
+#dashboard{
+    width: 100%;
+}
+.head{
+    margin-top: 10px;
+}
+.well{
+    background-color: #fefefe;
+
+}
+
+.todo-text{
+    margin-left: 20px;
+}
+.datepick, #search-days-id, #search-by-text {
+    margin: 10px 20px 10px 20px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+.date-err {
+    margin-left: 400px;
+}
+.err-msg{
+    color: red;
+}
+
+.success-msg{
+    color: green;
+}
+
+.completed, .delete-btn, .edit-btn, .status-btn {
+    width: 150px;
+}
